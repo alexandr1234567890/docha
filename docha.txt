@@ -70,6 +70,9 @@ apkpure.com###slide-wrap
 apkpure.com##.ad-box-auto > div
 apkpure.com##.right
 apkpure.com##.details-how
+apkpure.com##.ad-box-auto > div
+apkpure.com###policy-info
+apkpure.com##.share-btn
 
 apkfind.com##.mdl-mega-footer
 apkfind.com##.mdl-layout__header-row
